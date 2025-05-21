@@ -18,8 +18,14 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile+Views&color=blue&style=for-the-badge" alt="Profile views" />
-  <a href="https://drive.google.com/your-resume-link">
-    <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Resume download">
+</p>
+
+<p align="center">
+  <a href="https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/70967808/cec31ed7-50e8-4084-b02f-bbbb0b8caed1/resume-1.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=adobeacrobatreader" alt="View Resume">
+  </a>
+  <a href="https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/70967808/cec31ed7-50e8-4084-b02f-bbbb0b8caed1/resume-1.pdf" download>
+    <img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=adobeacrobatreader" alt="Download Resume">
   </a>
 </p>
 
@@ -37,40 +43,42 @@
 
 ## 🙋‍♂️ About Me
 
-Enthusiastic and detail-oriented third-year Computer Science student with a strong foundation in programming, data structures, and machine learning. Passionate about applying academic knowledge to real-world projects, collaborating with teams, and continuously learning new technologies to build impactful software solutions.
+Enthusiastic and detail-oriented third-year Computer Science student with a strong foundation in programming, data structures, and machine learning. Passionate about applying academic knowledge in real-world projects, collaborating with development teams, and building impactful software solutions. Always eager to learn new technologies and contribute to innovative projects.
 
 ---
 
 ## 💼 Experience
 
-- **Machine Learning Intern – IIT Jammu**  
-  *Aug 2024 – Sep 2024*  
-  - Designed and implemented ML algorithms for predictive analytics on student performance data.  
-  - Achieved 85% accuracy using regression techniques and feature engineering.
+- **Web Development Intern – Bharat Intern**  
+  *Sep 2023 – Oct 2023*  
+  - Gained practical experience in web technologies including DOM manipulation, responsive design, and component structuring.  
+  - Used version control tools like Git and GitHub to manage codebase and collaborate efficiently during project development.
 
 - **AI/ML Intern – NIT Patna**  
   *Jun 2024 – Jul 2024*  
-  - Utilized NLTK and Scikit-learn for text vectorization, sentiment labeling, and model evaluation.  
-  - Evaluated model performance using accuracy, precision, recall, and F1-score.
+  - Utilized libraries such as NLTK and Scikit-learn for text vectorization, sentiment labeling, and model evaluation.  
+  - Evaluated model performance using metrics like accuracy, precision, recall, and F1-score to ensure reliability in sentiment prediction.
 
-- **Web Development Intern – Bharat Intern**  
-  *Sep 2023 – Oct 2023*  
-  - Gained hands-on experience with DOM manipulation, responsive design, and component structuring.  
-  - Collaborated using Git and GitHub for version control.
+- **Machine Learning Intern – IIT Jammu**  
+  *Aug 2024 – Sep 2024*  
+  - Designed and implemented machine learning algorithms for predictive analytics on student performance data.  
+  - Achieved 85% accuracy in predictions by utilizing advanced regression techniques and feature engineering.
 
 ---
 
 ## 🚀 Projects
 
 - **Sentiment Analysis of Amazon Reviews using NLP**  
-  - Developed a sentiment analysis pipeline using Python, applying VADER and RoBERTa transformer models on 500,000+ Amazon reviews.  
-  - Implemented tokenization, stemming, and vectorization with NLTK and Scikit-learn.  
-  - Visualized sentiment trends using Matplotlib and Seaborn.
+  - Developed a sentiment analysis pipeline using Python, applying both VADER and RoBERTa transformer models on a dataset of over 500,000 Amazon product reviews.  
+  - Implemented data preprocessing techniques including tokenization, stemming, and text vectorization using NLTK and Scikit-learn to prepare text for analysis.  
+  - Performed model evaluation and sentiment score comparison, identifying strengths of rule-based (VADER) and deep learning-based (RoBERTa) approaches.  
+  - Visualized sentiment trends using Matplotlib and Seaborn to draw insights into consumer behavior across product categories.
 
 - **Advance Filtering for Amazon Rating, Reviews and Returns**  
-  - Built a Flask web app integrating Selenium for live scraping and a fine-tuned BERT model.  
-  - Achieved 91.45% accuracy in classifying genuine vs fake reviews using HuggingFace Transformers and PyTorch.  
-  - Designed a Trust Score formula combining star rating and review count for product reliability insights.
+  - Developed a Flask-based web application integrating live web scraping using Selenium and a fine-tuned BERT model to classify Amazon product reviews as genuine or fake.  
+  - Achieved 91.45% classification accuracy on a balanced dataset using HuggingFace Transformers and PyTorch for binary sentiment modeling.  
+  - Engineered a logarithmic-based Trust Score formula combining star rating and review count to quantitatively estimate product reliability.  
+  - Designed a user-friendly interface to display product metadata, real vs. fake review distribution, and actionable trust insights to guide purchasing decisions.
 
 ---
 
@@ -80,7 +88,7 @@ Enthusiastic and detail-oriented third-year Computer Science student with a stro
 **Data Science:** NumPy, Pandas, Scikit-Learn  
 **Web Development:** HTML, CSS  
 **Tools:** Jupyter Notebook, Git, GitHub, ChatGPT, Linux  
-**Other Skills:** Data Structures & Algorithms, Computer Networking
+**Other Skills:** Data Structures and Algorithms (DSA), Computer Networking
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
