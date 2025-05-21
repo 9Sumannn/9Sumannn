@@ -24,7 +24,7 @@
   <a href="https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/70967808/cec31ed7-50e8-4084-b02f-bbbb0b8caed1/resume-1.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=adobeacrobatreader" alt="View Resume">
   </a>
-  <a href="https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/70967808/cec31ed7-50e8-4084-b02f-bbbb0b8caed1/resume-1.pdf" download>
+  <a href="https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/70967808/cec31ed7-50e8-4084-b02f-bbbb0b8caed1/resume-1.pdf" download="Suman_Kumar_Mishra_Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=adobeacrobatreader" alt="Download Resume">
   </a>
 </p>
