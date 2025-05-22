@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-🚀 <b>Third-year Computer Science Student | AI/ML Engineer | Web Developer</b> 🚀
+🚀 <b>Third-year Computer Science Student |  ML Engineer | Web Developer</b> 🚀
 </p>
 
 <p align="center">
