@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-🚀 <b>Third-year Computer Science Student |  ML Engineer | Web Developer</b> 🚀
+🚀 <b>Third-year Computer Science Student | AI/ML Engineer | Web Developer</b> 🚀
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile+Views&color=blue&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=9Sumannn&label=Profile+Views&color=blue&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -108,7 +108,7 @@ I am excited to collaborate on innovative projects and explore new ideas. Feel f
 <p align="center">
   <a href="https://www.linkedin.com/in/suman-kumar-mishra-b925b2262"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" alt="LinkedIn"></a>
   <a href="mailto:sumankumarmishra4321@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/9Sumannn"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
